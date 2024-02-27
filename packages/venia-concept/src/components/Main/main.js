@@ -4,16 +4,15 @@ import { useScrollLock } from '@magento/peregrine';
 
 // import { useStyle } from '../../classify';
 import Footer from '../Footer';
-// import Header from '../Header';
+import Header from '../Header';
 // import defaultClasses from './main.module.css';
 
 // added:
 // import { mergeClasses } from '@magento/venia-ui/lib/classify';
 import { useStyle } from '@magento/venia-ui/lib/classify.js';
 
-import Header from '@magento/venia-ui/lib/components/Header';
+// import Header from '@magento/venia-ui/lib/components/Header';
 import defaultClasses from '@magento/venia-ui/lib/components/Main/main.module.css';
-
 
 
 const Main = props => {

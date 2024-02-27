@@ -104,7 +104,7 @@
 
   "pwa-studio": {
     "targets": {
-      "intercept": "src/targets/local-intercept.js"
+      "intercept": "src/targets/local-intercept"
     }
   },
 
