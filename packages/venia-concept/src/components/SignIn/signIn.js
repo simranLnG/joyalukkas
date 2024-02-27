@@ -72,7 +72,7 @@ const SignIn = props => {
                     id="email"
                     label={formatMessage({
                         id: 'signIn.emailAddressText',
-                        defaultMessage: 'Email address111'
+                        defaultMessage: 'Email address'
                     })}
                 >
                     <TextInput
@@ -94,7 +94,7 @@ const SignIn = props => {
                     id="Password"
                     label={formatMessage({
                         id: 'signIn.passwordText',
-                        defaultMessage: 'Password222'
+                        defaultMessage: 'Password'
                     })}
                     validate={isRequired}
                     autoComplete="current-password"
