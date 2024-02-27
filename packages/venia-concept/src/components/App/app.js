@@ -23,8 +23,8 @@ import {
 
 
 // added:
-import globalCSS from '/media/simran/DATA/SimranData/VeniaProj/pwa-studio/node_modules/@magento/venia-ui/lib/index.module.css';
-import { HeadProvider } from '@magento/venia-ui/lib/components/Head';
+import globalCSS from '@magento/venia-ui/lib/index.module.css';
+import { HeadProvider, StoreTitle } from '@magento/venia-ui/lib/components/Head';
 import Mask from '@magento/venia-ui/lib/components/Mask';
 // import MiniCart from '@magento/venia-ui/lib/components/MiniCart';
 

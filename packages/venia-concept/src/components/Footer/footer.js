@@ -6,10 +6,10 @@ import { shape, string } from 'prop-types';
 import { useFooter } from '@magento/peregrine/lib/talons/Footer/useFooter';
 
 // import Logo from '../Logo';
-import Newsletter from '../Newsletter';
-import { useStyle } from '../../classify';
-import defaultClasses from './footer.module.css';
-import { DEFAULT_LINKS, LOREM_IPSUM } from './sampleData';
+// // import Newsletter from '../Newsletter';
+// import { useStyle } from '../../classify';
+// import defaultClasses from './footer.module.css';
+// import { DEFAULT_LINKS, LOREM_IPSUM } from './sampleData';
 import resourceUrl from '@magento/peregrine/lib/util/makeUrl';
 
 // added:
@@ -20,7 +20,7 @@ import { useStyle } from '@magento/venia-ui/lib/classify.js';
 
 
 // import { mergeClasses } from '@magento/venia-ui/lib/classify';
-import defaultClasses from '/media/simran/DATA/SimranData/VeniaProj/pwa-studio/node_modules/@magento/venia-ui/lib/components/Footer/footer.module.css';
+import defaultClasses from '@magento/venia-ui/lib/components/Footer/footer.module.css';
 import { DEFAULT_LINKS, LOREM_IPSUM } from "@magento/venia-ui/lib/components/Footer/sampleData";
 // import GET_STORE_CONFIG_DATA from '@magento/venia-ui/lib/queries/getStoreConfigData.graphql';
 

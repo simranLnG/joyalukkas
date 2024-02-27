@@ -12,7 +12,7 @@ import Footer from '../Footer';
 import { useStyle } from '@magento/venia-ui/lib/classify.js';
 
 import Header from '@magento/venia-ui/lib/components/Header';
-import defaultClasses from '/media/simran/DATA/SimranData/VeniaProj/pwa-studio/node_modules/@magento/venia-ui/lib/components/Main/main.module.css';
+import defaultClasses from '@magento/venia-ui/lib/components/Main/main.module.css';
 
 
 

@@ -4,8 +4,9 @@ import { Provider as ReduxProvider } from 'react-redux';
 import { BrowserRouter } from 'react-router-dom';
 
 import { useAdapter } from '@magento/peregrine/lib/talons/Adapter/useAdapter';
-import App, { AppContextProvider } from '@magento/venia-ui/lib/components/App';
+import { AppContextProvider } from '@magento/venia-ui/lib/components/App';
 import StoreCodeRoute from '@magento/venia-ui/lib/components/StoreCodeRoute';
+import App from '../App'
 
 const Adapter = props => {
     const talonProps = useAdapter(props);
