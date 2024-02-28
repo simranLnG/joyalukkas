@@ -69,19 +69,24 @@ const SignIn = props => {
                 initialValues={initialValues && initialValues}
             >
                 <Field
-                    id="email"
-                    label={formatMessage({
-                        id: 'signIn.emailAddressText',
-                        defaultMessage: 'Email address'
-                    })}
+                    id="email1"
+                    // label={formatMessage({
+                    //     id: 'signIn.emailAddressText',
+                    //     defaultMessage: 'Email111 address'
+                    // })
+                    // }
+                    label="Email address changed"
+
                 >
+
+                    {/* <div>Helloooo</div> */}
                     <TextInput
                         id="email"
                         data-cy="SignIn-email"
                         autoComplete="email"
                         field="email"
                         validate={isRequired}
-                        data-cy="email"
+                        // data-cy="email"
                         aria-label={formatMessage({
                             id: 'global.emailRequired',
                             defaultMessage: 'Email Required'
@@ -92,14 +97,17 @@ const SignIn = props => {
                     data-cy="SignIn-password"
                     fieldName="password"
                     id="Password"
-                    label={formatMessage({
-                        id: 'signIn.passwordText',
-                        defaultMessage: 'Password'
-                    })}
+                    // label={formatMessage({
+                    //     id: 'signIn.passwordText',
+                    //     defaultMessage: 'Password'
+                    // })}
+
+                    label="Password changed"
+ 
                     validate={isRequired}
                     autoComplete="current-password"
                     isToggleButtonHidden={false}
-                    data-cy="password"
+                    // data-cy="password"
                     aria-label={formatMessage({
                         id: 'global.passwordRequired',
                         defaultMessage: 'Password Required'

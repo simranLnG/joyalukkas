@@ -23,7 +23,8 @@ import { Link, Route } from 'react-router-dom';
 // added: 
 
 import Logo from '@magento/venia-ui/lib/components/Logo';
-import AccountTrigger from '@magento/venia-ui/lib/components/Header/accountTrigger.js';
+// import AccountTrigger from '@magento/venia-ui/lib/components/Header/accountTrigger.js';
+import AccountTrigger from '../Header/accountTrigger.js';
 import CartTrigger from '@magento/venia-ui/lib/components/Header/cartTrigger.js';
 import NavTrigger from '@magento/venia-ui/lib/components/Header/navTrigger.js';
 import SearchTrigger from '@magento/venia-ui/lib/components/Header/searchTrigger.js';
@@ -99,6 +100,7 @@ const Header = props => {
                     >
                         <Logo classes={{ logo: classes.logo }} />
                     </Link>
+
                     <MegaMenu />
                     <div className={classes.secondaryActions}>
                         <SearchTrigger

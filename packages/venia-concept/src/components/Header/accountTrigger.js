@@ -9,7 +9,9 @@ import AccountChip from '../AccountChip';
 
 import defaultClasses from '@magento/venia-ui/lib/components/Header/accountTrigger.module.css';
 
-const AccountMenu = React.lazy(() => import('@magento/venia-ui/lib/components/AccountMenu'));
+// const AccountMenu = React.lazy(() => import('@magento/venia-ui/lib/components/AccountMenu'));
+const AccountMenu = React.lazy(() => import('../AccountMenu'));
+
 
 /**
  * The AccountTrigger component is the call to action in the site header
@@ -41,7 +43,9 @@ const AccountTrigger = props => {
         id: 'accountTrigger.ariaLabelSignIn',
         defaultMessage: 'Sign In'
     });
+    // const ariaLabel = isUserSignedIn ? ariaLabelMyMenu : ariaLabelSignIn;
     const ariaLabel = isUserSignedIn ? ariaLabelMyMenu : ariaLabelSignIn;
+
     return (
         <Fragment>
             <div className={rootClassName} ref={accountMenuTriggerRef}>
