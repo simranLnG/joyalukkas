@@ -35,7 +35,8 @@
   },
   "homepage": "https://github.com/magento/pwa-studio/tree/main/packages/venia-concept#readme",
   "dependencies": {
-    "@magento/pwa-buildpack": "~11.4.3"
+    "@magento/pwa-buildpack": "~11.4.3",
+    "swiper": "9"
   },
   "devDependencies": {
     "@adobe/apollo-link-mutation-queue": "~1.0.2",
@@ -143,7 +144,7 @@
   "esnext": "src/index.js",
   "pwa-studio": {
     "targets": {
-      "intercept": "./local-intercept.js"
+      "intercept": "src/targets/local-intercept.js"
     }
   }
 }

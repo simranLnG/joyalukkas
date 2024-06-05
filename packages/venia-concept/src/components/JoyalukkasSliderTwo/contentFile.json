@@ -1,0 +1,243 @@
+{
+    "HomePage": {
+        "MegaMenu": {
+            "Jewellery": {
+                "Heading": "JEWELLERY",
+                "Items": {
+                    "Category": {
+                        "Heading": "Category",
+                        "Items": {
+                            "Earrings": {
+                                "Heading": "Earrings",
+                                "Items": {
+                                    "Drops": {
+                                        "ImageUrl": "",
+                                        "Text": "Drops"
+                                    },
+                                    "Jhumkas": {
+                                        "ImageUrl": "",
+                                        "Text": "Jhumkas"
+                                    },
+                                    "Hoops": {
+                                        "ImageUrl": "",
+                                        "Text": "Hoops"
+                                    },
+                                    "Dangler": {
+                                        "ImageUrl": "",
+                                        "Text": "Dangler"
+                                    },
+                                    "Chandbali": {
+                                        "ImageUrl": "",
+                                        "Text": "Chandbali"
+                                    },
+                                    "Studs": {
+                                        "ImageUrl": "",
+                                        "Text": "Studs"
+                                    },
+                                    "Suidhaga": {
+                                        "ImageUrl": "",
+                                        "Text": "Suidhaga"
+                                    }
+                                }
+                            },
+                            "Pendants": {},
+                            "Rings": {},
+                            "Nosepins": {},
+                            "BanglesAndBracelets": {},
+                            "Chains": {},
+                            "JewellerySets": {},
+                            "Mangalsutra": {},
+                            "Necklace": {}
+                        }
+                    },
+                    "Collections": {},
+                    "Men": {},
+                    "Kids": {},
+                    "Diamond": {},
+                    "Gold": {},
+                    "GemstoneAndUncut": {},
+                    "Platinum": {},
+                    "Silver": {},
+                    "Bullions": {}
+                }
+            },
+            "Wedding": {
+                "Heading": "WEDDING",
+                "Items": {
+                    "WeddingTradition": {},
+                    "OurBrands": {},
+                    "WeddingIdentity": {},
+                    "JewelleryEducation": {}
+                }
+            },
+            "Gifts": {
+                "Heading": "GIFT",
+                "Items": {
+                    "WeddingTradition": {},
+                    "OurBrands": {},
+                    "WeddingIdentity": {},
+                    "JewelleryEducation": {}
+                }
+            },
+            "EasyGold": {},
+            "Promotion": ""
+        },
+        "SparkleYourStyleContainer": {},
+        "EnjoyTheMomentContainer": {},
+        "ShareTheJoyContainer": {},
+        "OurBestSmilesContainer": {},
+        "TheirStoriesContainer": {},
+        "ShopByCategoryContainer": {},
+        "RadiantContainer": {
+            "Slides": {
+                "Slide1": {
+                    "Heading": "RADIANT",
+                    "Text": "Elevate your look, embrace the colors, and make a statement with our Jewellery — where sophistication meets vibrancy in perfect harmony.",
+                    "GlobalButtonText": "Discover",
+                    "SmallImage": {
+                        "Id": "1",
+                        "ImageUrl": "https://www.joyalukkas.in//media/catalog/product//d/s/ds1500086561_9.jpg",
+                        "RedirectUrl": "https://www.joyalukkas.in/radiant-gold-womens-ring-ds1500086561.html?page=1"
+                    },
+                    "ShopButtonText": "Shop",
+                    "BigImage": {
+                        "Id": "1",
+                        "ImageUrl": "https://www.joyalukkas.in/media/wysiwyg/Color_Stone_Collection_HM_BNR_1600x1600_px_1.jpg?auto=webp&format=pjpg&quality=85"
+                    }
+                },
+                "Slide2": {
+                    "Heading": "RAINBOW",
+                    "Text": "Elevate your look, embrace the colors, and make a statement with our Jewellery — where sophistication meets vibrancy in perfect harmony.",
+                    "GlobalButtonText": "Discover",
+                    "SmallImage": {
+                        "Id": "2",
+                        "ImageUrl": "https://www.joyalukkas.in/media/wysiwyg/DS1100124185_9.jpg",
+                        "RedirectUrl": "https://www.joyalukkas.in/color-burst-gold-women-earrings-ds1100124185.html"
+                    },
+                    "ShopButtonText": "Shop",
+                    "BigImage": {
+                        "Id": "2",
+                        "ImageUrl": "https://www.joyalukkas.in/media/wysiwyg/Rainbow_Sub-Desktop_Bnr_1600x1600-px.jpg?auto=webp&format=pjpg&quality=85"
+                    }
+                },
+                "Slide3": {
+                    "Heading": "YUVA",
+                    "Text": "Elevate your look, embrace the colors, and make a statement with our Jewellery — where sophistication meets vibrancy in perfect harmony.",
+                    "GlobalButtonText": "Discover",
+                    "SmallImage": {
+                        "Id": "3",
+                        "ImageUrl": "https://www.joyalukkas.in/media/wysiwyg/mu1100032060_1.jpeg",
+                        "RedirectUrl": "https://www.joyalukkas.in/hexa-green-gem-stylish-gold-earring-mu1100032060.html?page=1"
+                    },
+                    "ShopButtonText": "Shop",
+                    "BigImage": {
+                        "Id": "3",
+                        "ImageUrl": "https://www.joyalukkas.in/media/wysiwyg/Yuva-Collection2_1600x1600px.jpg?auto=webp&format=pjpg&quality=85"
+                    }
+                },
+                "Slide4": {
+                    "Heading": "Bloomz",
+                    "Text": "Elevate your look, embrace the colors, and make a statement with our Jewellery — where sophistication meets vibrancy in perfect harmony.",
+                    "GlobalButtonText": "Discover",
+                    "SmallImage": {
+                        "Id": "4",
+                        "ImageUrl": "https://joyalukkas.in/media/wysiwyg/bm18021054_9_Small.jpg",
+                        "RedirectUrl": "https://www.joyalukkas.in/gold-flower-pendant-bm18021054.html"
+                    },
+                    "ShopButtonText": "Shop",
+                    "BigImage": {
+                        "Id": "4",
+                        "ImageUrl": "https://www.joyalukkas.in/media/wysiwyg/hd_images/online_collections/bloomz/Bloomz_D_1600px.jpg?auto=webp&format=pjpg&quality=85"
+                    }
+                }
+            }
+        },
+        "OurHeritageContainer": {
+            "Column1": {
+                "BigImage": {
+                    "ImageUrl": "https://www.joyalukkas.in/media/wysiwyg/NORTH-GOLD-BRIDE_1200px.jpeg?auto=webp&format=pjpg&quality=85",
+                    "ImageText": "Tamil Bride"
+                },
+                "ButtonText": "View",
+                "RedirectUrl": "https://www.joyalukkas.in/bridal-collection"
+            },
+            "Column2": {
+                "Heading": {
+                    "FirstLine": "OUR CULTURE",
+                    "SecondLine": "OUR HERITAGE"
+                },
+                "Text": "We have been trusted with millions of marriages & will do the same in times ahead. India being a land of diversity, we ensures that diversity seeps into the Jewellery we craft for your special day.",
+                "Slider": {
+                    "Slide1": {
+                        "Id": "1",
+                        "ImageUrl": "https://www.joyalukkas.in/media/wysiwyg/NORTH-GOLD-BRIDE_1200px.jpeg?auto=webp&format=pjpg&quality=85",
+                        "ImageText": "North Bride"
+                    },
+                    "Slide2": {
+                        "Id": "2",
+                        "ImageUrl": "https://www.joyalukkas.in/media/wysiwyg/hd_images/culture_heritage/Kerala/KERALA_D_1600px.jpg?auto=webp&format=pjpg&quality=85",
+                        "ImageText": "Kerela Bride"
+                    },
+                    "Slide3": {
+                        "Id": "3",
+                        "ImageUrl": "https://www.joyalukkas.in/media/wysiwyg/hd_images/culture_heritage/Marati/MARATI_D_1600px.jpg?auto=webp&format=pjpg&quality=85",
+                        "ImageText": "Marathi Bride"
+                    },
+                    "Slide4": {
+                        "Id": "4",
+                        "ImageUrl": "https://www.joyalukkas.in/media/wysiwyg/hd_images/culture_heritage/Andhra_new/ANDHRA-new_D_1600px.jpg?auto=webp&format=pjpg&quality=85",
+                        "ImageText": "Andhra Bride"
+                    },
+                    "Slide5": {
+                        "Id": "5",
+                        "ImageUrl": "https://www.joyalukkas.in/media/wysiwyg/hd_images/culture_heritage/Bengal/BENGAL_D_1600px.jpg?auto=webp&format=pjpg&quality=85",
+                        "ImageText": "Bengali Bride"
+                    },
+                    "Slide6": {
+                        "Id": "6",
+                        "ImageUrl": "https://www.joyalukkas.in/media/wysiwyg/hd_images/culture_heritage/Karnataka/KARNATAKA_D_1600px.jpg?auto=webp&format=pjpg&quality=85",
+                        "ImageText": "Karnataka Bride"
+                    },
+                    "Slide7": {
+                        "Id": "7",
+                        "ImageUrl": "https://www.joyalukkas.in/media/wysiwyg/hd_images/culture_heritage/Tamil_Temple/TAMIL-TEMPLE_D_1600px.jpg?auto=webp&format=pjpg&quality=85",
+                        "ImageText": "Tamil Bride"
+                    }
+                }
+            }
+        },
+        "WeddingIdentityContainer": {
+            "Heading": {
+                "FirstLine": "FIND YOUR",
+                "SecondLine": "WEDDING IDENTITY"
+            },
+            "Slider": {
+                "Slide1": {
+                    "Id": "1",
+                    "ImageUrl": "https://www.joyalukkas.in/media/wysiwyg/3_1.jpg?auto=webp&format=pjpg&quality=85",
+                    "ImageText": "Tradition Meets Western"
+                },
+                "Slide2": {
+                    "Id": "2",
+                    "ImageUrl": "https://www.joyalukkas.in/media/wysiwyg/2_2.jpg?auto=webp&format=pjpg&quality=85",
+                    "ImageText": "Not Too Heavy To Wear"
+                },
+                "Slide3": {
+                    "Id": "3",
+                    "ImageUrl": "https://www.joyalukkas.in/media/wysiwyg/1_2.jpg?auto=webp&format=pjpg&quality=85",
+                    "ImageText": "Traditional Wear"
+                },
+                "Slide4": {
+                    "Id": "4",
+                    "ImageUrl": "https://www.joyalukkas.in/media/wysiwyg/4.jpg?auto=webp&format=pjpg&quality=85",
+                    "ImageText": "Engagement Day"
+                }
+            }
+        },
+        "EasyExchangeContainer": {},
+        "TheFutureContainer": {},
+        "OurExclusiveBrandsContainer": {},
+        "FooterContainer": {},
+        "FooterBlockContentContainer": {}
+    }
+}

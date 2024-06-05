@@ -1,0 +1,8 @@
+.starCss::before {
+    /* What also works: "⭐⭐⭐⭐⭐" or "💛💛💛💛💛" or other characters. */
+    content: "⭐⭐⭐⭐⭐";}
+.starCss  {    display: inline-block;
+    -webkit-background-clip: text;
+    color: rgba(80, 255, 10, 0.1);
+    background-color: rgb(156,163,175);
+    margin-left: 0.5rem;}

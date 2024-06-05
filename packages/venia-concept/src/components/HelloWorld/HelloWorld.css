@@ -1,0 +1,74 @@
+.flower {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start; /* Start from the left */
+}
+
+
+.box {
+  height: 200px; /* Adjust the height as needed */
+  width: 200px; /* Adjust the width to fit two boxes per row with spacing */
+  border: 2px solid black;
+  margin: 2%;
+  text-align: center;
+  background-color: antiquewhite;
+  background: radial-gradient(circle, hsl(108, 39%, 75%), #9780f3);
+}
+  
+  .box:nth-child(1) {
+    animation: rotate1 4s linear infinite; /* Animation for rotating first box */
+  }
+  
+  .box:nth-child(2) {
+    animation: rotate2 4s linear infinite; /* Animation for rotating second box */
+  }
+  
+  .box:nth-child(3) {
+    animation: rotate3 4s linear infinite; /* Animation for rotating third box */
+  }
+  
+  .box:nth-child(4) {
+    animation: rotate4 4s linear infinite; /* Animation for rotating third box */
+  }
+
+  
+  @keyframes rotate1 {
+    0% {
+      transform: rotate(0deg); /* Start at 0 degrees */
+    }
+    100% {
+      transform: rotate(360deg); /* End at 360 degrees (1 full rotation) */
+    }
+  }
+  
+  @keyframes rotate2 {
+    0% {
+      transform: rotate(0deg); /* Start at 0 degrees */
+    }
+    100% {
+      transform: rotate(360deg); /* End at 360 degrees (1 full rotation) */
+    }
+  }
+  
+  @keyframes rotate3 {
+    0% {
+      transform: rotate(0deg); /* Start at 0 degrees */
+    }
+    100% {
+      transform: rotate(360deg); /* End at 360 degrees (1 full rotation) */
+    }
+  }
+
+  @keyframes rotate4 {
+    0% {
+      transform: rotate(0deg); /* Start at 0 degrees */
+    }
+    100% {
+      transform: rotate(360deg); /* End at 360 degrees (1 full rotation) */
+    }
+  }
+  
+  #Flower {
+    color: aquamarine;
+  }
+  

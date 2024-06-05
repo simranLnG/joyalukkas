@@ -1,0 +1,46 @@
+/* .test-class-simran{
+    color: red;
+    border: solid grey 5px;
+}
+.class-simran{
+    color: aqua;
+    border: solid grey 5px;
+} */
+
+
+.slider-root-X8u.homeHeroBanner .slider-bannerWrapper-oXc{
+    min-height: calc(100vh - 118px) !important;
+    position: relative;
+}
+
+
+.simran-class-1{
+    border: 2px solid rgb(237, 12, 12);
+    min-height: 80vh;
+    /* background-image: url(&quot;/media/wysiwyg/Web-Banner-Diamond-2400x1800-1.jpg?auto=webp&amp;format=pjpg&amp;quality=85&quot;); */
+    background-size: contain; 
+    background-position: right top; 
+    background-repeat: no-repeat;
+}
+
+.slider-bannerWrapper-oXc{
+    min-height: calc(100vh - 118px) !important;
+    position: relative;
+}
+
+.banner-wrapper-RZt{
+
+    background-clip: padding-box;
+    border-radius: inherit;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    overflow: hidden;
+}
+
+.banner-content-9ol{
+    min-height: 50px;
+    width: 100%;
+}
+
+/* <div><span class="mobileOnly"><img src="https://www.joyalukkas.in/media/wysiwyg/Web-Banner-Diamond-1080x1080-1.jpg" alt=""></span></div> */
+/* {{media url=.renditions/wysiwyg/image1.jpeg}} */
